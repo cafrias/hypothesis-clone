@@ -33,6 +33,7 @@ export class User {
       validator: isValidUsername,
       message: 'Username must be between 3 and 30 characters',
     },
+    unique: true,
     required: true,
   })
   username: string;
