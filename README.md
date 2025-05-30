@@ -1,6 +1,6 @@
 # Hypothesis Clone
 
-A clone of the Hypothesis API just used to teach full-stack development.
+A clone of the [Hypothesis API](https://h.readthedocs.io/en/latest/api-reference/v1/) used to teach full-stack development.
 
 ## Description
 
